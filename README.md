@@ -1,4 +1,4 @@
-# Classification-Churn-Customer
+# Telco Customer Churn 
 Project by Group 1
 
 # Use Case
